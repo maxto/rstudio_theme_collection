@@ -1,6 +1,7 @@
 # Rstudio theme collection
 
-RStudio v1.2 has added support for custom editor themes [blog](https://blog.rstudio.com/2018/10/29/rstudio-ide-custom-theme-support/)
+RStudio v1.2 has added support for custom editor themes [blog post here](https://blog.rstudio.com/2018/10/29/rstudio-ide-custom-theme-support/).
+To create the personal Themes there's an online [tmTheme editor](https://tmtheme-editor.herokuapp.com/#!/editor/theme/Monokai)
 
 A list of dark themes:
 

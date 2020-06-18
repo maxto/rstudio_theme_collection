@@ -29,3 +29,6 @@ A list of dark themes:
 - [Apprentice](Apprentice.rstheme) by [FvD](https://github.com/FvD/rsApprentice)
 ![](Apprentice.png)
 <br/><br/>
+- [VSCode](rscodeio.rstheme) by [anthonynorth](https://github.com/anthonynorth/rscodeio)
+![](rscodeio.png)
+<br/><br/>

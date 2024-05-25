@@ -1,4 +1,4 @@
-/* rs-theme-name: Night Owl-Me */ 
+/* rs-theme-name: Night-Me */ 
 /* rs-theme-is-dark: TRUE */ 
 /* A port of Sarah Drasner's Night Owl VS Code theme (UUID: EB0EC8F4-467B-46D0-8AE9-88B44F4D73B4) */ 
 /* A customized and modified version of the original Night Owl theme for my personal preference */
@@ -15,7 +15,7 @@
   color: #d6deeb;
 }  
 .ace_cursor {
-  color: #ee2400;
+  color: #d0ee00;
 }  
 .ace_marker-layer .ace_selection {
   background: rgba(95, 126, 151, 0.47);
@@ -30,10 +30,10 @@
 .ace_marker-layer .ace_bracket {
 	margin: -1px 0 0 -1px;
   border: 1px solid #2e2040;
-}  
+}
 .ace_marker-layer .ace_active-line {
 	background: #010E17;
-}  
+} 
 .ace_gutter-active-line {
 	background-color: #010E17;
 }  
@@ -745,6 +745,6 @@
 } 
 
 .ace_marker-layer .ace_active-line {
-  background: #010e1a;
+  background: #ffffff26;
   position: absolute;
 }
